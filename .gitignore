@@ -1,0 +1,17 @@
+package-lock.json
+node_modules
+.DS_Store
+.thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+database.sqlite
+coverage/
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
